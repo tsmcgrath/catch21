@@ -11,5 +11,5 @@ __This will also be bold__
 _You **can** combine them_
 Lists
 
-![GitHub Logo](./images/ChimpFinger.jpg)
-Format: ![Alt Text](url)
+![In Progress](https://tsmcgrath.github.io/catch21/images/ChimpFinger.jpg)
+Format: ![Alternative](url)
