@@ -1,0 +1,15 @@
+# This is an h1 <h1> tag
+## This is an h2 <h2> tag
+###### This is an h6 <h6> tag
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+Lists
+
+![GitHub Logo](./images/ChimpFinger.jpg)
+Format: ![Alt Text](url)
