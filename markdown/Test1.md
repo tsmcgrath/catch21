@@ -11,5 +11,4 @@ __This will also be bold__
 _You **can** combine them_
 Lists
 
-![In Progress](https://tsmcgrath.github.io/catch21/images/ChimpFinger.jpg)
-Format: ![Alternative](url)
+![This is an image](/images/ChimpFinger.jpg)
