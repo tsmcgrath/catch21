@@ -2,7 +2,8 @@
 ## HUC12: 120902040504 - Lower Comanche Creek
 ### Catchment 5769623 
 Unnamed Tributary, Mason County
-<img style="float: right;" src="../images/CommancheCreekExample1.png">
+
+<img align="right" src="../images/CommancheCreekExample1.png"  width="500" height="500"/>
 
 * Length of Stream Reach: 1.73 mi
 * Area of Catchment: 576 acres
