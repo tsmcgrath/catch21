@@ -3,7 +3,7 @@
 ### Catchment 5769623 
 Unnamed Tributary, Mason County
 
-<img align="right" src="../images/CommancheCreekExample1.png"  width="500" height="500"/>
+<img align="right" src="../images/CommancheCreekExample1.png"  width="400" height="400"/>
 
 * Length of Stream Reach: 1.73 mi
 * Area of Catchment: 576 acres
